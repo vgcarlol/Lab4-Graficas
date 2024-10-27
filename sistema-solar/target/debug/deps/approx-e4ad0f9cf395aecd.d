@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Github\Lab4-Graficas\sistema-solar\target\debug\deps\libapprox-e4ad0f9cf395aecd.rmeta: C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\relative_eq.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\ulps_eq.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\macros.rs
+
+C:\Users\user\Desktop\Github\Lab4-Graficas\sistema-solar\target\debug\deps\libapprox-e4ad0f9cf395aecd.rlib: C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\relative_eq.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\ulps_eq.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\macros.rs
+
+C:\Users\user\Desktop\Github\Lab4-Graficas\sistema-solar\target\debug\deps\approx-e4ad0f9cf395aecd.d: C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\relative_eq.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\ulps_eq.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\macros.rs
+
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\lib.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\abs_diff_eq.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\relative_eq.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\ulps_eq.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\macros.rs:

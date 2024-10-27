@@ -1,0 +1,9 @@
+[package]
+name = "sistema-solar"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+minifb = "0.26"
+nalgebra = "0.32"
+obj = "0.10"
